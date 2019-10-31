@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="new_Package.Block_User">
+        <methods>
+          <include name="first"/>
+          <include name="Block_users"/>
+        </methods>
+      </class> <!-- new_Package.Block_User -->
+      <class name="new_Package.twitter">
+        <methods>
+          <include name="get_Tweet"/>
+          <include name="first"/>
+        </methods>
+      </class> <!-- new_Package.twitter -->
+      <class name="new_Package.whether">
+        <methods>
+          <include name="listusers"/>
+          <include name="first"/>
+        </methods>
+      </class> <!-- new_Package.whether -->
+      <class name="new_Package.HashTag">
+        <methods>
+          <include name="get_Tweet"/>
+          <include name="first"/>
+        </methods>
+      </class> <!-- new_Package.HashTag -->
+      <class name="new_Package.Search_Tweets">
+        <methods>
+          <include name="first"/>
+          <include name="search_Tweet"/>
+        </methods>
+      </class> <!-- new_Package.Search_Tweets -->
+      <class name="new_Package.Display_Username">
+        <methods>
+          <include name="listusers"/>
+          <include name="first"/>
+        </methods>
+      </class> <!-- new_Package.Display_Username -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-schema-validator-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-schema-validator-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/json-schema-validator-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/kotlin-extensions-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/kotlin-stdlib-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/kotlin-stdlib-common-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/kotlin-stdlib-jdk7-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/rest-assured-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/rest-assured-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/rest-assured-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/rest-assured-common-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/rest-assured-common-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/scala-support-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-commons-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-mock-mvc-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/spring-web-test-client-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/xml-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/xml-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/api jar/api jar/xml-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Chrome Driver/testng-6.0.jar.zip"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/log4j (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/scribejava-apis-2.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Qualitest/Downloads/scribejava-core-2.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
